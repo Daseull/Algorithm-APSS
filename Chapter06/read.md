@@ -1,8 +1,7 @@
 Chapter06 : brute-force search
 ==============================
 
-### BOGGLE 
-  https://algospot.com/judge/problem/read/BOGGLE
+### [BOGGLE] (https://algospot.com/judge/problem/read/BOGGLE)
 
 ### PICNIC 
   https://algospot.com/judge/problem/read/PICNIC
