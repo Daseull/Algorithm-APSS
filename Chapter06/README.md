@@ -1,14 +1,14 @@
 Chapter06 : brute-force search
 ==============================
 
-## BOGGLE 
+### BOGGLE 
 https://algospot.com/judge/problem/read/BOGGLE
 
-## PICNIC 
+### PICNIC 
 https://algospot.com/judge/problem/read/PICNIC
 
-+ BOARDCOVER 
+### BOARDCOVER 
 https://algospot.com/judge/problem/read/BOARDCOVER
 
-+ CLOCKSYNC 
+### CLOCKSYNC 
 https://algospot.com/judge/problem/read/CLOCKSYNC
