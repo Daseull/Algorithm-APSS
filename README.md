@@ -1,2 +1,2 @@
 # Algorithm-APSS
-알고리즘 문제해결전략
+with알고리즘 문제해결전략
