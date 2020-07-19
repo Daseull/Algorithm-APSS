@@ -1,5 +1,5 @@
 Chapter06 : brute-force search
-------------------------------
+==============================
 
 # BOGGLE https://algospot.com/judge/problem/read/BOGGLE
 
